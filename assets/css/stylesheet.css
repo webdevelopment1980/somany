@@ -54,6 +54,11 @@ html {
   max-width: 1440px;
 }
 
+.nav-item li {
+  height: auto !important;
+  /* Set height to auto */
+}
+
 h3 {
   font-size: 32px;
 }
