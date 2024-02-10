@@ -2628,3 +2628,7 @@ label {
 .card {
   width: auto;
 }
+
+.card__caption {
+  font-size: 17px !important;
+}
