@@ -2637,3 +2637,13 @@ label {
 .card__caption {
   font-size: 17px !important;
 }
+
+.img-1 h6 {
+  margin-top: 15px;
+}
+.img-2 h6 {
+  margin-top: 15px;
+}
+.img-3 h6 {
+  margin-top: 15px;
+}
